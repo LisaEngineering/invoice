@@ -2,6 +2,7 @@ class ListController < ApplicationController
     #require "net/https"
     #require "uri"
     require "base64"
+
   
     #before_action :authenticate_administrator!
     def invoice
